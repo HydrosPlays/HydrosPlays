@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="Hydros_Logo.png" width="500" alt="Hydros logo">
+</p>
 
 <!--
 **HydrosPlays/HydrosPlays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
