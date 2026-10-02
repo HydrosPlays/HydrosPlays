@@ -33,13 +33,13 @@ Hey, I'm **Hydros**! I've been making content since **2009**, and these days I w
 
 ### 🌐 Game Databases
 
-| Site | Game |
-| --- | --- |
-| [**ultrarumble.com**](https://ultrarumble.com) | My Hero Ultra Rumble |
-| [**dokkanbattle.net**](https://dokkanbattle.net) | Dragon Ball Z Dokkan Battle |
-| [**dblegends.net**](https://dblegends.net) | Dragon Ball Legends |
-| [**myherous.com**](https://myherous.com) | My Hero United Survival |
-| [**myheroui.com**](https://myheroui.com) | My Hero Ultra Impact (archive) |
+<p align="center">
+  <a href="https://ultrarumble.com"><img src="mhuradvert.png" width="49%" alt="My Hero Ultra Rumble Database" title="ultrarumble.com · My Hero Ultra Rumble"></a>
+  <a href="https://dokkanbattle.net"><img src="dokkanadvert.png" width="49%" alt="Dokkan Battle Database" title="dokkanbattle.net · Dragon Ball Z Dokkan Battle"></a>
+  <a href="https://dblegends.net"><img src="dbladvert.png" width="49%" alt="Dragon Ball Legends Database" title="dblegends.net · Dragon Ball Legends"></a>
+  <a href="https://myherous.com"><img src="mhusadvert.png" width="49%" alt="My Hero Academia United Survival Database" title="myherous.com · My Hero United Survival"></a>
+  <a href="https://myheroui.com"><img src="mhuiadvert.png" width="49%" alt="My Hero Ultra Impact Database (archive)" title="myheroui.com · My Hero Ultra Impact (archive)"></a>
+</p>
 
 ### 🛠️ Open Source
 
