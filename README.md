@@ -47,7 +47,7 @@ Hey, I'm **Hydros**! I've been making content since **2009**, and these days I w
 | --- | --- |
 | [**ultrarumbleguide**](https://github.com/HydrosPlays/ultrarumbleguide) | A community-driven, in-depth guide for My Hero Ultra Rumble, live at [ultrarumble.com/guide](https://ultrarumble.com/guide). |
 | [**TidalHeX**](https://github.com/HydrosPlays/TidalHeX) | My fork of [PKHeX](https://github.com/kwsch/PKHeX), the Pokémon save file editor. |
-| [**Nacre Shiny Hunt Tracker**](https://github.com/HydrosPlays/Nacre-Shiny-Hunt-Tracker) | An animated OBS shiny-hunting counter with Stream Deck control, live type theming, and accurate shiny odds. |
+| [**Biolume Shiny Hunt Companion**](https://github.com/HydrosPlays/Biolume) | A shiny hunting companion for Pokémon, from Gold & Silver to Legends: Z-A. |
 | [**Pelagix Living Dex Tracker**](https://github.com/HydrosPlays/Pelagix) | Pelagix is a desktop Living Dex tracker for the Pokémon games. |
 
 ## 🧰 Toolbox
